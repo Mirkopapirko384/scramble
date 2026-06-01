@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.Form1.resources
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.AssemblyInfo.cs
+C:\Users\user\source\repos\IndexForm\obj\Debug\net8.0-windows\IndexForm.csproj.CoreCompileInputs.cache
